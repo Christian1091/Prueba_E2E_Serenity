@@ -1,0 +1,5 @@
+Conclusiones
+
+Prueba E2E
+Mediante la automatización con Serenity BDD se valido se realizó la validación del flujo de compras, incluyendo autenticación, selección de productos, visualización de los mismos en el carrito y finalmente con el mensaje de confirmación de la compra.
+Hallazgos: El flujo funcionó sin problemas, se puede mejorar la automatización con tiempos explícitos para una mejor respuesta y eficiente proceso durante la validación del flujo de compras.
