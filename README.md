@@ -1,6 +1,6 @@
 # Automatización Serenity BDD E2E
 
-Este es un proyecto de ejemplo donde se automatizan pruebas de una aplicación web utilizando el patrón **Screenplay** de Serenity.
+Este es un proyecto de ejemplo donde se automatizan pruebas de una aplicación web utilizando el patrón **Serenity**.
 
 ## Desarrollo
 * IntelliJ IDEA 2023.3.3
